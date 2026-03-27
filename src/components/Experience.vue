@@ -58,7 +58,7 @@ const jobs: Job[] = [
 .section-title {
   text-align: center;
   color: var(--color-heading);
-  font-size: 1.5rem;
+  font-size: clamp(1.2rem, 3vw, 1.5rem); /* Fluid section title */
   margin-bottom: 1.5rem; /* Reduced */
   text-shadow: 0 0 10px rgba(255, 232, 31, 0.5);
 }
@@ -109,14 +109,14 @@ const jobs: Job[] = [
 
 .company {
   color: var(--color-heading);
-  font-size: 1.2rem;
+  font-size: clamp(1rem, 2.5vw, 1.2rem); /* Fluid company name */
   margin-bottom: 0.2rem;
   text-transform: uppercase;
 }
 
 .role {
   color: #fff;
-  font-size: 1rem;
+  font-size: clamp(0.9rem, 2vw, 1rem); /* Fluid role text */
 }
 
 @media (max-width: 768px) {

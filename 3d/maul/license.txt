@@ -1,0 +1,11 @@
+Model Information:
+* title:	Darth Maul - WIP
+* source:	https://sketchfab.com/3d-models/darth-maul-wip-db4fdcd9eead4782af5aad3beec8c947
+* author:	Luciano Soares (https://sketchfab.com/lucianosoares)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Darth Maul - WIP" (https://sketchfab.com/3d-models/darth-maul-wip-db4fdcd9eead4782af5aad3beec8c947) by Luciano Soares (https://sketchfab.com/lucianosoares) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

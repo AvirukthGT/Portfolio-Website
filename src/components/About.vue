@@ -36,7 +36,7 @@
 .content p {
   margin-bottom: 1.5rem;
   color: #fff; /* Crisp white for reading */
-  font-size: 1rem;
+  font-size: clamp(0.9rem, 2vw, 1rem); /* Fluid paragraph text */
   line-height: 1.8;
 }
 

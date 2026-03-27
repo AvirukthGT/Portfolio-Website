@@ -58,20 +58,18 @@ const certifications = [
 }
 
 .panel {
-  background: #000; /* Solid Black */
-  border: 2px solid var(--color-text);
+  background: #111;
+  border: 1px solid #333;
   padding: 1.5rem;
-  box-shadow: 0 0 15px rgba(75, 213, 238, 0.1);
-  transition: border-color 0.3s;
 }
 
 .panel:hover {
-  border-color: var(--color-heading);
+  border-color: #555;
 }
 
 .panel-title {
-  color: var(--color-heading);
-  border-bottom: 1px solid var(--color-heading);
+  color: #fff;
+  border-bottom: 1px solid #333;
   padding-bottom: 0.5rem;
   margin-bottom: 1rem;
   font-size: 1rem;
@@ -93,8 +91,7 @@ const certifications = [
 }
 
 .bullet {
-  color: #00ff00;
-  animation: blink 1s step-end infinite;
+  color: #fff;
 }
 
 .cert-list li {
@@ -108,10 +105,6 @@ const certifications = [
 
 .trophy {
   font-size: 1.2rem;
-}
-
-@keyframes blink {
-  50% { opacity: 0; }
 }
 
 @media (max-width: 768px) {
